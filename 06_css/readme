@@ -1,0 +1,5 @@
+Once html ile sehifenin strukturunu qurub sectionlara boldum.
+Hem inline, hemde external css ile gorunus dizayni verdim.
+Display: center, justify-item: center ile sec3 merkeze yerlesdirmek istedim alinmadi oda gore div acib padding-left ile merkeze getirmeye calisdim.
+Sec3 ile sec2 arasinda bosluq yaranirdi ona gore display:flow-root yazdim tam funksiyasini anlamasamda(
+input radio ve checkbox`un serhedlerine reng veribsizmi ve ya dealutdu
