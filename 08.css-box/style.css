@@ -84,7 +84,9 @@ ul li a:hover{
     color: aliceblue;
    
 }
-
+.nav-icon{
+    display: flex;
+}
 
 .fa-solid{
     margin: 20px;
